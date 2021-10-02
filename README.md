@@ -18,6 +18,7 @@ Start as administrator, include filter for [AbuseIPDBModule]
 enable Capture Global Win32, other defaults are OK to use
 Watch the output when you request pages on your website you enabled the AbuseIPDBModule on
 
+see Settings.cs for various options and default values
 	
 # Requirements
 - IIS 7 or higher
